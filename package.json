@@ -1,0 +1,22 @@
+{
+  "name": "joingmongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon dist/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/mongoose": "^5.5.32",
+    "@types/restify": "^8.4.2",
+    "@types/restify-cors-middleware": "^1.0.1",
+    "mongoose": "^5.7.12",
+    "nodemon": "^2.0.0",
+    "restify": "^8.4.0",
+    "restify-cors-middleware": "^1.1.1"
+  }
+}

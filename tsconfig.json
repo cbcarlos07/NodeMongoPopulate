@@ -1,0 +1,8 @@
+{
+    "compileOnSave": false,
+    "compilerOptions": {
+        "target": "es3",
+        "outDir": "dist",
+        "module": "commonjs"
+    }
+}
